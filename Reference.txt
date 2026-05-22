@@ -41,3 +41,6 @@ https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/
 
 MCP and A2A Protocol - multiagent patterns
 https://learn.microsoft.com/en-us/agents/architecture/multi-agent-patterns
+
+Microsoft Agents Hub
+https://learn.microsoft.com/en-us/agents/
