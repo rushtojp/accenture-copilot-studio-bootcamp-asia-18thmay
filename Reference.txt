@@ -44,3 +44,8 @@ https://learn.microsoft.com/en-us/agents/architecture/multi-agent-patterns
 
 Microsoft Agents Hub
 https://learn.microsoft.com/en-us/agents/
+
+Multiagent patterns, MCP and A2A protocols
+https://learn.microsoft.com/en-us/agents/architecture/multi-agent-patterns
+MCP - architecture
+https://modelcontextprotocol.io/docs/learn/architecture#participants
